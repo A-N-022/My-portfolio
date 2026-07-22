@@ -7,7 +7,7 @@ Welcome to my portfolio repository! This space showcases a selection of my live,
 | Project | Live URL | Tech Stack |
 | :--- | :--- | :--- |
 | **Lucid Studio** | [thelucidstudio.netlify.app](https://thelucidstudio.netlify.app)
-| **SP Nails** | [[spnails.netlify.app](https://spnailsaloon.netlify.app)](https://spnailsaloon.netlify.app)
+| **SP Nails** | [[spnailsaloon.netlify.app](https://spnailsaloon.netlify.app)]
 | **Laser Mehr** | [lasermehr.netlify.app](https://lasermehr.netlify.app)
 
 ---
