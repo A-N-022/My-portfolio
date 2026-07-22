@@ -12,14 +12,6 @@ Welcome to my portfolio repository! This space showcases a selection of my live,
 
 ---
 
-## 🖼️ Project Previews
-
-*(Optional: Replace the `#` with actual image links to make your README pop!)*
-
-- **Lucid Studio** – ![Lucid Studio Screenshot](#)  
-- **SP Nails** – ![SP Nails Screenshot](#)  
-- **Laser Mehr** – ![Laser Mehr Screenshot](#)  
-
 ## 📬 Connect With Me
 
 alirezanorouzi022@gmail.com
